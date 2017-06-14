@@ -1,2 +1,3 @@
 # Boulder-Dash
-BoulderDash Java Game Project
+BoulderDash Game which is a Java Project
+Made with Maven, MVC model
